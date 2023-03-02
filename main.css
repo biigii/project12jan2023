@@ -1,0 +1,18 @@
+section {
+  display: flex;
+  align-items: center;
+  gap: 20px
+}
+
+.text {
+  flex-basis: 70%;
+}
+
+figure {
+  flex-basis: 30%;
+}
+
+
+img {
+  width: 100%;
+}
